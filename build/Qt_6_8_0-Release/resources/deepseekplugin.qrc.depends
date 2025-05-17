@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/deepseekplugin">
+        <file>icons/deepseek.svg</file>
+        <file>icons/deepseek_run.svg</file>
+        <file>icons/settings.svg</file>
+    </qresource>
+</RCC>

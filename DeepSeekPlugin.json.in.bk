@@ -1,0 +1,14 @@
+{
+    "Id" : "deepseekplugin",
+    "Name" : "DeepSeekPlugin",
+    "Version" : "0.0.1",
+    "CompatVersion" : "0.0.1",
+    "Vendor" : " Ivan Rubianes",
+    "VendorId" : "ivanrubianes",
+    "Copyright" : "(C)  Ivan Rubianes",
+    "License" : "Put short license information here",
+    "Description" : "Put a short description of your plugin here",
+    "Url" : "https://pos-backend-flask.onrender.com",
+    "DocumentationUrl" : "",
+    ${IDE_PLUGIN_DEPENDENCIES}
+}
